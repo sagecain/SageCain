@@ -15,7 +15,3 @@ Predictive modeling project using Python (scikit-learn) to analyze installer ret
 ### [Hospital Supply Chain Dashboard](https://github.com/sagecain/hospital-dashboard)  
 Power BI dashboard tracking procurement KPIs, reducing reporting time by 35%.  
 **Skills:** Power BI, Data Visualization, KPI Development  
-
-### [Workforce Attrition Analysis](https://github.com/sagecain/workforce-attrition)  
-SQL + Tableau analysis of workforce data to identify retention strategies.  
-**Skills:** SQL, Tableau, Predictive Analytics  
