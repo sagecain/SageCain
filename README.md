@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sage 👋  
+**Data Analyst | SQL | Tableau | Power BI | Google Cloud**  
 
-<!--
-**sagecain/SageCain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in turning raw data into actionable insights through visualization, predictive analytics, and cloud solutions.  
+Currently pursuing a **Bachelor of Science in Data Analytics at Purdue University Global (Oct 2025)**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects  
+
+### [Installer Retention Forecasting](https://github.com/sagecain/installer-retention-forecasting)  
+Predictive modeling project using Python (scikit-learn) to analyze installer retention and forecast churn.  
+**Skills:** Python, Pandas, scikit-learn, Data Visualization  
+
+### [Hospital Supply Chain Dashboard](https://github.com/sagecain/hospital-supplychain-dashboard)  
+Power BI dashboard tracking procurement KPIs, reducing reporting time by 35%.  
+**Skills:** Power BI, Data Visualization, KPI Development  
+
+### [Workforce Attrition Analysis](https://github.com/sagecain/workforce-attrition)  
+SQL + Tableau analysis of workforce data to identify retention strategies.  
+**Skills:** SQL, Tableau, Predictive Analytics  
