@@ -12,7 +12,7 @@ Currently pursuing a **Bachelor of Science in Data Analytics at Purdue Universit
 Predictive modeling project using Python (scikit-learn) to analyze installer retention and forecast churn.  
 **Skills:** Python, Pandas, scikit-learn, Data Visualization  
 
-### [Hospital Supply Chain Dashboard](https://github.com/sagecain/hospital-supplychain-dashboard)  
+### [Hospital Supply Chain Dashboard](https://github.com/sagecain/hospital-dashboard)  
 Power BI dashboard tracking procurement KPIs, reducing reporting time by 35%.  
 **Skills:** Power BI, Data Visualization, KPI Development  
 
