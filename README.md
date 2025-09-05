@@ -15,3 +15,17 @@ Predictive modeling project using Python (scikit-learn) to analyze installer ret
 ### [Hospital Supply Chain Dashboard](https://github.com/sagecain/hospital-dashboard)  
 Power BI dashboard tracking procurement KPIs, reducing reporting time by 35%.  
 **Skills:** Power BI, Data Visualization, KPI Development  
+
+### [Retail Sales Forecasting](https://github.com/sagecain/retail-sales-forecasting)  
+Time series project using Python (SARIMAX) to forecast monthly retail revenue from the UCI Online Retail dataset.  
+**Skills:** Python, Pandas, Statsmodels, Time Series Forecasting, Data Visualization  
+
+## 🧰 Toolbox
+- Languages: Python (Pandas, NumPy, scikit-learn, Statsmodels), SQL  
+- Visualization: Tableau, Power BI, Matplotlib  
+- Cloud: Google Cloud (BigQuery, Data Analytics, AI Essentials)  
+- Other: Jupyter, GitHub, Excel  
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/sage-cain)  
+- Email: sage.cain@yahoo.com  
